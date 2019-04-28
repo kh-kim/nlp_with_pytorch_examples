@@ -1,0 +1,1 @@
+Natural language processing is one of biggest stream in artificial intelligence, and it becomes very popular after seq2seq's invention. However, in order to make a strong A.I., there are still many challenges remain. I believe that we can breakthrough these barriers to get strong artificial intelligence.
