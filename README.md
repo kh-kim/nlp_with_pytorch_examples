@@ -12,6 +12,9 @@
 2. 기초 수학
 3. Hello 파이토치
 4. 전처리
+  - https://github.com/kh-kim/simple-ntc/blob/master/data_loader.py
+  - https://github.com/kh-kim/OpenNLMTK/blob/master/data_loader.py
+  - https://github.com/kh-kim/simple-nmt/blob/master/data_loader.py
 5. 의미: 유사성과 모호성
 6. 워드 임베딩
 7. 시퀀스 모델링
