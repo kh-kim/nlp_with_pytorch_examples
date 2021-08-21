@@ -1,2 +1,5 @@
 ./*/*/.ipynb_checkpoints
 .DS_Store
+*.pyc
+1-basics/data/
+*/*/.ipynb_checkpoints/
